@@ -8,6 +8,11 @@ Discord AI chat bot project is to enhance communication and collaboration within
 - Visual studio code - for development.
 - Discord as GUI.
 
+## Experience
+
+- https://discord.gg/TW5QYpBwZW
+
+
 ## Images
 
 ![Alt](https://cloud-hc1edv3p8-hack-club-bot.vercel.app/2screenshot__331___1_.png)
