@@ -12,6 +12,10 @@ Discord AI chat bot project is to enhance communication and collaboration within
 
 - https://discord.gg/TW5QYpBwZW
 
+## Image 
+
+![Alt](https://cloud-dsdl01aev-hack-club-bot.vercel.app/0screenshot_2024-09-13_at_2.42.48___am.png)
+
 
 
 
